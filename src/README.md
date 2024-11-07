@@ -1,6 +1,6 @@
-# Archivo de Harry Potter
+# Harry Potter Archive
 
-En esta carpeta se encuentra un notebook donde se analizan los personajes de Harry Potter
+In this folder you will find a notebook where the Harry Potter characters are analyzed.
 
 ![](https://media.giphy.com/media/mz1kJeDVueKC4/giphy.gif)
 
